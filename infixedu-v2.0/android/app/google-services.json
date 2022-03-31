@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "598928944880",
+    "project_id": "lms-dashboard-4b4a8",
+    "storage_bucket": "lms-dashboard-4b4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598928944880:android:454a31e76d95480c539c35",
+        "android_client_info": {
+          "package_name": "com.ita.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598928944880-ds78p8vq39b5vj0td4h5l3o01k3oi2e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaVcFLtKZBW02thq3_S8bnZ-Eo4B9xew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598928944880-ds78p8vq39b5vj0td4h5l3o01k3oi2e2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598928944880-jfte0h7sccrvop8ieihlpu4ghjjughqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Azainapps.lmsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598928944880:android:19f38717331d9201539c35",
+        "android_client_info": {
+          "package_name": "ita.lms.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598928944880-ds78p8vq39b5vj0td4h5l3o01k3oi2e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaVcFLtKZBW02thq3_S8bnZ-Eo4B9xew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598928944880-ds78p8vq39b5vj0td4h5l3o01k3oi2e2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598928944880-jfte0h7sccrvop8ieihlpu4ghjjughqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Azainapps.lmsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
